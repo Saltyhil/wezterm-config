@@ -14,7 +14,6 @@ config.color_scheme = 'Gruvbox dark, medium (base16)'
 -- Font changing 
 config.font = wezterm.font {
  family = 'JetBrains Mono',
- harfbuzz_features = { 'calt=0', 'clig=0', 'liga=0' },
  }
 
 -- Font size and tab function
