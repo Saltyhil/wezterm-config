@@ -3,8 +3,8 @@ local wezterm = require 'wezterm'
 -- This will hold the configuration.
 
 local config = wezterm.config_builder()
--- Config_Stars_From_Here 
 
+-- Config_Stars_From_Here 
 -- Configuring act command 
 local act = wezterm.action
 
