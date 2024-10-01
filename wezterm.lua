@@ -25,12 +25,6 @@ config.default_cursor_style = 'BlinkingBar'
 config.animation_fps = 1
 
 --Command palatee (CTRL+SHIFT+P)
-config.keys = {
- {
- key = 'P',
- mods = 'CTRL',
- action = wezterm.action.ActivateCommandPalette,
- },
 }
 
 return config
